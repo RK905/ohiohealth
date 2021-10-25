@@ -13,6 +13,7 @@
 		C455BEE627231A3400760E91 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C455BEE427231A3400760E91 /* Main.storyboard */; };
 		C455BEE827231A3800760E91 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C455BEE727231A3800760E91 /* Assets.xcassets */; };
 		C455BEEB27231A3800760E91 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C455BEE927231A3800760E91 /* LaunchScreen.storyboard */; };
+		C455BEF327276B3000760E91 /* rViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C455BEF227276B3000760E91 /* rViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C455BEE727231A3800760E91 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C455BEEA27231A3800760E91 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C455BEEC27231A3800760E91 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C455BEF227276B3000760E91 /* rViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				C455BEE727231A3800760E91 /* Assets.xcassets */,
 				C455BEE927231A3800760E91 /* LaunchScreen.storyboard */,
 				C455BEEC27231A3800760E91 /* Info.plist */,
+				C455BEF227276B3000760E91 /* rViewController.swift */,
 			);
 			path = OhioHealth;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C455BEE327231A3400760E91 /* ViewController.swift in Sources */,
+				C455BEF327276B3000760E91 /* rViewController.swift in Sources */,
 				C455BEDF27231A3400760E91 /* AppDelegate.swift in Sources */,
 				C455BEE127231A3400760E91 /* SceneDelegate.swift in Sources */,
 			);
